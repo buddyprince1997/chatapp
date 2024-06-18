@@ -1,0 +1,70 @@
+# Dependencies
+
+node_modules
+
+## Build outputs
+
+build
+dist
+out
+
+## Test and example directories
+
+test
+tests
+__tests__
+examples
+
+## Documentation
+
+docs
+README.md
+*.md
+
+## Environment files
+
+.env.local
+.env.development
+.env.test
+.env.production
+
+## Logs
+
+*.log
+
+## Temporary files
+
+*.tmp
+*.swp
+
+## Git files
+
+.git
+.gitignore
+.gitattributes
+.gitmodules
+
+## OS and miscellaneous files
+
+.DS_Store
+Thumbs.db
+
+## IDE and editor configuration files
+
+.vscode
+.idea
+*.iml
+
+## iOS and Android build artifacts
+
+ios/build
+ios/Pods
+android/build
+android/.gradle
+android/.idea
+
+## Other unnecessary files and directories
+
+*.bak
+*.old
+*.orig
